@@ -3,6 +3,7 @@ Desafio Automação e Desenvolvimento de Software
 ### Como executar este projeto?
 
 Abaixo terá os comandos necessários para executar este projeto. 
+
 **Inicialmente cria-se uma máquina virtual**
 
 python3 -m venv venv 
