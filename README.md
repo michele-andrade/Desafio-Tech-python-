@@ -1,4 +1,4 @@
-# Desafio-Tech-python-
+# Desafio-Tech-python
 Desafio Automação e Desenvolvimento de Software. Criação de uma API usando Python e Django RestFramework (DRF).
 - Comunicação com Banco de Dados SQL (SQLite);
 - Contém duas tabelas (Region e  Fruit);
