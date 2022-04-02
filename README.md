@@ -14,12 +14,16 @@ source venv/bin/activate
 **Instalando o django e tkinter**
 
 pip install django djangorestframework 
+
 pip install tk
 
 **Execuntado o projeto**
 
 python manage.py migrate --run-syncdb 
+
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py runserver 
 
